@@ -1,9 +1,9 @@
-# Token-base-authentication
-logi and signup the user for token base method
+# Token-based-authentication
+Login and sign-up using tokens.
 
 ### Prerequisites
 
-You need to install the following packages for backend:
+You need to install the following packages for the backend:
 
 ```
 asgiref==3.2.3
@@ -18,7 +18,7 @@ sqlparse==0.3.0
 
 ```
 
-### Installing
+### Installation
 
 Clone the repository
 
