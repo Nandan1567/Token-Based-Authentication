@@ -1,0 +1,70 @@
+.Home
+{
+  width: 100%;
+    height: 50px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content:flex-end ;
+    align-items: center;
+    color:wheat;
+    font-size: 20px;
+}
+.homepage
+{
+ display: flex;
+ justify-content: space-between;
+ align-items: center; 
+ flex-direction: row;
+ list-style: none;
+ width: 300px;
+ font-size: 30px;
+}
+.sss
+{
+    
+    display: flex;
+    justify-content: center;
+    font-size:40px ;
+    color: blueviolet;
+}
+.align
+{
+    padding-top:20px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login
+{
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    
+}
+.Appname
+{
+
+ display: flex;
+ flex-direction: column;
+ width: 500px;
+ height: 500px;
+ border:solid 2px black;
+ justify-content: center;
+ align-items: center;
+ background-color: white;
+ border-radius: 10px;
+ 
+
+}
+.SignIn div{
+  padding-top:20px;
+}
+.SignIn
+{
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    
+}
