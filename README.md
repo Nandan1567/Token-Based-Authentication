@@ -23,7 +23,7 @@ sqlparse==0.3.0
 Clone the repository
 
 ```
-git clone https://github.com/Nandan1567/Token-base-authentication.gitt
+git clone https://github.com/Nandan1567/Token-base-authentication.git
 ```
 
 Setting up your virtual environment:
